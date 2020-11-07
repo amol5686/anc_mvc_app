@@ -8,6 +8,7 @@ using MvcCore_Sample1.Models;
 
 namespace MvcCore_Sample1.Controllers
 {
+    //added from github
     public class HomeController : Controller
     {
         public IActionResult Index()
